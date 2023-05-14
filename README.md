@@ -6,7 +6,8 @@ At the moment, most of my attention is focused on learning new technologies, suc
 
 If You are interested, here's my linkedIn profile:
 https://www.linkedin.com/in/natalia-so%C5%9Bnierz-88936222a/
-
+and my portfolio website:
+https://nataliasosnierz.pl
 Cheers!
 
 
