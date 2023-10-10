@@ -1,5 +1,5 @@
 Hi there, <br>
-My name is Natalia and I am genuinely interested in becoming a Front-End Developer.
+My name is Natalia and I am genuinely interested in becoming a Full Stack Developer.
 I am a person who has always loved science, trouble-shooting and breaking new grounds. My friend infused programming in me 4 years ago. 
 It was just a hobby back then, but it evolved into something more and I decided to develop in this branch. 
 At the moment, most of my attention is focused on learning new technologies, such as JavaScript, React and PHP, hoping that it will allow me to work as a Junior Front-End Developer.
